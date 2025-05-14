@@ -14,7 +14,7 @@ I'm Maciej Andrzejewski, Data Science Student at the Faculty of Mathematics and 
 
 * [Nutritional analysis dashboard](https://github.com/andrzejewskimaciej/Projects/tree/main/DataVisualizationTechniquesProjects/Project%202%20-%20Dashboard%20about%20us) - Interactive dashboard about  our food consumption stats and habits, made in R Shiny with ggplot2;
 
-* [Fraud Detection](https://github.com/andrzejewskimaciej/ML_Intro_Project1) - Classification ML model built on synthetic data with a business goal to detect fraudulent transactions in e-commerce.
+* [Fraud Detection](https://github.com/andrzejewskimaciej/ML_Intro_Projects/tree/main/Project%201%20-%20classification) - Classification ML model built on synthetic data with a business goal to detect fraudulent transactions in e-commerce.
 
 * More projects coming soon 👀
 
