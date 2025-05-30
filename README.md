@@ -16,8 +16,6 @@ I'm Maciej Andrzejewski, Data Science Student at the Faculty of Mathematics and 
 
 * [Fraud Detection](https://github.com/andrzejewskimaciej/ML_Intro_Projects/tree/main/Project%201%20-%20classification) - Classification ML model built on synthetic data with a business goal to detect fraudulent transactions in e-commerce.
 
+* [Credit Card Fraud Detection - SGH x Mastercard Hackathon](https://github.com/andrzejewskimaciej/Projects/tree/main/Credit%20Card%20Fraud%20Detection%20-%20SGH%20x%20Mastercard%20Hackathon) - ML classification model for fraudulent transaction built in team as a submit to SGH x Mastercard Hackaton May 2025. Due to poorly generated dataset, we put the most effort in Feature Engineering step with treating data as *time series* with intent to reflect real credit card operators fraud detection systems.
+
 * More projects coming soon 👀
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
