@@ -20,16 +20,14 @@ I'm Maciej Andrzejewski, Data Science Student at the Faculty of Mathematics and 
 
 ### Projects:
 
-* [PantryBuddy](https://github.com/andrzejewskimaciej/PantryBuddy) - Java recipes book taking into account home supplies. There were used such technologies as Swing, JUnit, SQLite. Also we took recipes from external API;
-
-* [Oral Health Data Analysis Project](https://github.com/andrzejewskimaciej/Projects/tree/main/DataVisualizationTechniquesProjects/Project%201%20%20-%20Poster) - Poster presenting data related to oral health created with the use of R, ggplot2 and Canva;
-
-* [Nutritional Analysis Dashboard](https://github.com/andrzejewskimaciej/Projects/tree/main/DataVisualizationTechniquesProjects/Project%202%20-%20Dashboard%20about%20us) - Interactive dashboard about  our food consumption stats and habits, made in R Shiny with ggplot2;
-
-* [Fraud Detection](https://github.com/andrzejewskimaciej/ML_Intro_Projects/tree/main/Project%201%20-%20classification) - Classification ML model built on synthetic data with a business goal to detect fraudulent transactions in e-commerce;
-
 * [Credit Card Fraud Detection - SGH x Mastercard Hackathon](https://github.com/andrzejewskimaciej/Projects/tree/main/Credit%20Card%20Fraud%20Detection%20-%20SGH%20x%20Mastercard%20Hackathon) - ML classification model for fraudulent transaction built in team as a submit to SGH x Mastercard Hackaton May 2025. Due to poorly generated dataset, we put the most effort in Feature Engineering step with treating data as *time series* with intent to reflect real credit card operators fraud detection systems;
 
 * [Clustering of Loan Customers](https://github.com/andrzejewskimaciej/ML_Intro_Projects/tree/main/Project%202%20-%20clustering) - A model for clustering loan customers for advertising purposes;
+
+* [Fraud Detection](https://github.com/andrzejewskimaciej/ML_Intro_Projects/tree/main/Project%201%20-%20classification) - Classification ML model built on synthetic data with a business goal to detect fraudulent transactions in e-commerce;
+
+* [PantryBuddy](https://github.com/andrzejewskimaciej/PantryBuddy) - Java recipes book taking into account home supplies. There were used such technologies as Swing, JUnit, SQLite. Also we took recipes from external API;
+
+* [Oral Health Data Analysis Project](https://github.com/andrzejewskimaciej/Projects/tree/main/DataVisualizationTechniquesProjects/Project%201%20%20-%20Poster) - Poster presenting data related to oral health created with the use of R, ggplot2 and Canva;
 
 * More projects coming soon 👀
