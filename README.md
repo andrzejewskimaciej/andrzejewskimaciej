@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Maciej Andrzejewski, Data Science Student at the Faculty of Mathematics and Information Science at Warsaw University of Technology. I'm passionate about programming and working with data. Also I find exploring new Data Science technologies and the underlying mathematical concepts particularly fascinating. I'm especially keen on R and enjoy using it for data analysis and visualization. In my free time, I immerse myself in literature.
+I'm Maciej Andrzejewski, Data Science Student at the Faculty of Mathematics and Information Science at Warsaw University of Technology. I'm passionate about programming and working with data. Also I find exploring new Data Science technologies and the underlying mathematical concepts particularly fascinating. In my free time, I immerse myself in literature.
 
 ## I've used:
 
